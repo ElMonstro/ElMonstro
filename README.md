@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElMonstro
 - 👀 I’m interested in backend programming
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on backend projects
 - 📫 You can reach me at jratcher@gmail.com
 
